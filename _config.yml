@@ -27,6 +27,7 @@ author :
 #
 #production_url : http://cooking-recipes.github.io
 production_url : https://cooking-recipes.github.io
+bs_url : /cooking-recipes.github.io
 
 gems: ["jekyll-sitemap"]
 
