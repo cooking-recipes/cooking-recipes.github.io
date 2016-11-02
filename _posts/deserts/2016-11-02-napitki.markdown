@@ -1,0 +1,9 @@
+---
+title: Напитки
+layout: post
+category: deserts
+short_des: 
+img: images/cat/des/de30.jpg
+---
+Jekyll also offers powerful support for code snippets
+buuuuliouuiu

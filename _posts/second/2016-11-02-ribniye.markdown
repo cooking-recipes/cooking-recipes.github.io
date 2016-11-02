@@ -1,0 +1,9 @@
+---
+title: Рыбные
+layout: post
+category: second
+short_des: 
+img: images/cat/se/s09.jpg
+---
+Jekyll also offers powerful support for code snippets
+buuuuliouuiu

@@ -9,7 +9,7 @@ rday:
 ---
 <div class="header-grids">
 						<div class="col-md-4 header-grid-info">
-							<a href="single.html">
+							<a href="first_meal.html">
 								<div class="header-grid gray">
 									<div class="header-grid-img gray-grid">
 										<img src="images/2.jpg" alt="">
@@ -21,7 +21,7 @@ rday:
 							</a>
 						</div>
 						<div class="col-md-4 header-grid-info">
-							<a href="single.html">
+							<a href="second_meal.html">
 								<div class="header-grid">
 									<div class="header-grid-img">
 										<img src="images/3.jpg" alt="">
@@ -33,7 +33,7 @@ rday:
 							</a>
 						</div>
 						<div class="col-md-4 header-grid-info">
-							<a href="single.html">
+							<a href="deserts.html">
 								<div class="header-grid blue">
 									<div class="header-grid-img blue-grid">
 										<img src="images/1.jpg" alt="">

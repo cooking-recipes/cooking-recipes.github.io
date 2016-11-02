@@ -1,0 +1,7 @@
+---
+title: Борщи
+layout: post
+category: main
+short_des: 
+img: images/cat/c01.jpg
+---

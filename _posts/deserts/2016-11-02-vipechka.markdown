@@ -1,0 +1,7 @@
+---
+title: Выпечка
+layout: post
+category: deserts
+short_des: 
+img: images/cat/des/de25.jpg
+---

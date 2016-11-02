@@ -1,0 +1,7 @@
+---
+title: Мороженое
+layout: post
+category: deserts
+short_des: 
+img: images/cat/des/de38.jpg
+---

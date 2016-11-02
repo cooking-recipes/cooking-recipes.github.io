@@ -1,0 +1,7 @@
+---
+title: Окрошка
+layout: post
+category: main
+short_des: 
+img: images/cat/c04.jpg
+---

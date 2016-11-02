@@ -32,3 +32,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+logos:  images/own/logo2.png

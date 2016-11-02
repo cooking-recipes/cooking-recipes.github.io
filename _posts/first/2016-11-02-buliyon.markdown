@@ -1,0 +1,9 @@
+---
+title: Бульоны
+layout: post
+category: main
+short_des: 
+img: images/cat/c02.jpg
+---
+Jekyll also offers powerful support for code snippets
+buuuuliouuiu

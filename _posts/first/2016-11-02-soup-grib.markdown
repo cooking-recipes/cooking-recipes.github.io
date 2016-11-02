@@ -1,0 +1,7 @@
+---
+title: Грибные супы
+layout: post
+category: main
+short_des: 
+img: images/cat/c05.jpg
+---
